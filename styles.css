@@ -11,7 +11,7 @@ body {
   /* Center align videos horizontally */
   margin-top: 50px;
   /* Adjust margin as needed */
-  background-color: #3498db;
+  background-color: #041d32;
   /* Blue background */
   padding: 20px;
   /* Add some padding */
@@ -20,7 +20,8 @@ body {
 }
 
 video {
-  width: 80%;
+  /* Scale video to 50% of original size */
+  width: 50%;
   /* Adjust width as needed */
   max-width: 800px;
   /* Adjust max width as needed */
