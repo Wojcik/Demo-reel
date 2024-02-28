@@ -1,0 +1,18 @@
+.video-container {
+  display: flex;
+  flex-direction: column;
+  /* Arrange videos vertically */
+  align-items: center;
+  /* Center align videos horizontally */
+  margin-top: 50px;
+  /* Adjust margin as needed */
+}
+
+video {
+  width: 80%;
+  /* Adjust width as needed */
+  max-width: 800px;
+  /* Adjust max width as needed */
+  margin-bottom: 20px;
+  /* Adjust spacing between videos */
+}
